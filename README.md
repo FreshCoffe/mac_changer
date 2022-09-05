@@ -12,6 +12,10 @@ A simple mac changer in python!
 
 - run the script | sudo python3 mac.py
 
+
+> you can use this script for example before you start the wifi_dos script, see repo.
+
+
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0DMCZT)
