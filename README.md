@@ -20,4 +20,4 @@ A simple mac changer in python!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0DMCZT)
 
-FOR EDUCATIONAL PURPOSES ONLY!
+> FOR EDUCATIONAL PURPOSES ONLY!
